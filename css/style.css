@@ -1,0 +1,19 @@
+.button
+{
+	margin-top: 30px;
+}
+
+.top
+{
+	padding: 10px;
+}
+
+.center
+{
+	text-align: center;
+}
+
+.myButton
+{
+	margin-top: 0px !important;
+}
